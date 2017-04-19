@@ -36,7 +36,8 @@ While this does work,
 
 ## Install
 ```bash
-    $ git clone 
+    $ git clone git@github.com:jspears/webpack-alias-bug.git
+    $ cd webpack-alias-bug
     $ npm install
   
 ```
