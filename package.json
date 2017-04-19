@@ -1,0 +1,11 @@
+{
+  "name": "webpack-alias-bug",
+  "version": "1.0.0",
+  "description": "Alias not working in webpack2",
+  "main": "src/index.js",
+  "repository": {},
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
+}
